@@ -1,1 +1,6 @@
 MassTransit Examples
+--------------------
+
+NHibernateSagaExample
+---------------------
+This should be fairly self contained.  The only cavet is that you'll need to setup the connection string to a database.  If you don't then you'll get an interesting exception from the FluentNHibernate code.
